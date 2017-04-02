@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdsManagement", "AdsManagement\AdsManagement.csproj", "{E5DB6A12-0D27-46D2-9A69-542441EC1FCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdsManagement.DAL", "AdsManagement.DAL\AdsManagement.DAL.csproj", "{A5F8077B-5255-410C-B253-08427B9A250B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdsManagement.Services", "AdsManagement.Services\AdsManagement.Services.csproj", "{F124DA00-3FB6-4FCD-BFDC-7A993A2FD1C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5DB6A12-0D27-46D2-9A69-542441EC1FCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5DB6A12-0D27-46D2-9A69-542441EC1FCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5DB6A12-0D27-46D2-9A69-542441EC1FCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5DB6A12-0D27-46D2-9A69-542441EC1FCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5F8077B-5255-410C-B253-08427B9A250B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5F8077B-5255-410C-B253-08427B9A250B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5F8077B-5255-410C-B253-08427B9A250B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5F8077B-5255-410C-B253-08427B9A250B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F124DA00-3FB6-4FCD-BFDC-7A993A2FD1C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F124DA00-3FB6-4FCD-BFDC-7A993A2FD1C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F124DA00-3FB6-4FCD-BFDC-7A993A2FD1C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F124DA00-3FB6-4FCD-BFDC-7A993A2FD1C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
